@@ -1,0 +1,16 @@
+DateTime==4.4
+absl-py==1.0.0
+asyncio==3.4.3
+bleak==0.14.2
+dbus-next==0.2.3
+loguru==0.6.0
+numpy==1.22.3
+pip==21.3.1
+pytz==2022.1
+setuptools==60.2.0
+six==1.16.0
+wheel==0.37.1
+zope.interface==5.4.0
+matplotlib~=3.6.0
+Pillow~=9.2.0
+scipy~=1.9.1
