@@ -1,16 +1,5 @@
 # icra-2023-workshop-tactile-fingertips
-The development of tactile sensing and its fusion
-with computer vision is expected to enhance robotic systems
-in handling complex tasks like deformable object manipulation.
-However, readily available industrial grippers typically lack
-tactile feedback, which has led researchers to integrate and
-develop their own tactile sensors. This has resulted in a wide
-range of sensor hardware and difficulty in comparing task-
-solving performance. We propose moving towards accessible
-open-source sensors and present a set of fingertips specifically
-designed for fine object manipulation, with readily interpretable
-data output. The fingertips are validated through two difficult
-tasks: cloth edge tracing and cable tracing. 
+The development of tactile sensing and its fusion with computer vision is expected to enhance robotic systems in handling complex tasks like deformable object manipulation. However, readily available industrial grippers typically lack tactile feedback, which has led researchers to integrate and develop their own tactile sensors. This has resulted in a wide range of sensor hardware and difficulty in comparing tasksolving performance. We propose moving towards accessible open-source sensors and present a set of fingertips specifically designed for fine object manipulation, with readily interpretable data output. The fingertips are validated through two difficult tasks: cloth edge tracing and cable tracing. 
 
 ## Video material
 Video material of the proof-of-concept experiments is provided in the videos folder.
