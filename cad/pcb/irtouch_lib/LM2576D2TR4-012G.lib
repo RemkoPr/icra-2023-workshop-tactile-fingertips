@@ -1,0 +1,24 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#(c) SnapEDA 2016 (snapeda.com)
+#This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA) with Design Exception 1.0
+#
+# LM2576D2TR4-012G
+#
+DEF LM2576D2TR4-012G U 0 40 Y Y 1 L N
+F0 "U" -701 -802 50 H V L BNN
+F1 "LM2576D2TR4-012G" -700 -901 50 H V L BNN
+F2 "D2PAK-5" 0 0 50 H I L BNN
+F3 "" 0 0 50 H I L BNN
+DRAW
+S -600 -300 600 300 0 0 10 f
+X VIN 1 -800 0 200 R 40 40 0 0 I 
+X GND 3 -200 -500 200 U 40 40 0 0 P 
+X GND 6 -200 -500 200 U 40 40 0 0 P 
+X ON/OFF 5 200 -500 200 U 40 40 0 0 I 
+X FB 4 800 100 200 L 40 40 0 0 O 
+X OUT 2 800 -100 200 L 40 40 0 0 O 
+ENDDRAW
+ENDDEF
+#
+# End Library

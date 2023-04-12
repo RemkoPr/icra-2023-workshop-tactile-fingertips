@@ -1,0 +1,23 @@
+(footprint "HEXAGON_3" (version 20211014) (generator pcbnew)
+  (layer "F.Cu")
+  (tedit 0)
+  (attr smd)
+  (fp_text reference "REF**" (at 0 -0.5 unlocked) (layer "F.SilkS") hide
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 3f95cad9-ce16-4185-b418-aa702b54508b)
+  )
+  (fp_text value "HEXAGON_3" (at 0 1 unlocked) (layer "F.Fab") hide
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 4f46f8ad-2652-48bd-9180-31f237eff7e4)
+  )
+  (fp_text user "${REFERENCE}" (at 0 2.5 unlocked) (layer "F.Fab") hide
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 602e5fa9-f45a-4965-b738-007ff00b4be1)
+  )
+  (fp_line (start -1.732 -3) (end -3.464 0) (layer "F.SilkS") (width 0.2) (tstamp 36109975-6533-409b-b143-7274f341a750))
+  (fp_line (start -3.464 0) (end -1.732 3) (layer "F.SilkS") (width 0.2) (tstamp 4870d64e-9620-4dfd-b73f-b0f0690325f6))
+  (fp_line (start -1.732 3) (end 1.732 3) (layer "F.SilkS") (width 0.2) (tstamp 62dc1409-111e-4ed9-9407-4f28ba11e242))
+  (fp_line (start 3.464 0) (end 1.732 3) (layer "F.SilkS") (width 0.2) (tstamp d1778fe8-632a-4bbb-acb8-bbf389de2b8d))
+  (fp_line (start 3.464 0) (end 1.732 -3) (layer "F.SilkS") (width 0.2) (tstamp d7ffc6ad-bb15-4e52-86c2-b5f1cfe5e263))
+  (fp_line (start 1.732 -3) (end -1.732 -3) (layer "F.SilkS") (width 0.2) (tstamp eab6382f-b635-4430-9017-8f084b3ac21d))
+)

@@ -1,0 +1,18 @@
+(footprint "1POS_INTERFACE" (version 20211014) (generator pcbnew)
+  (layer "F.Cu")
+  (tedit 0)
+  (attr smd)
+  (fp_text reference "REF**" (at 0 -0.5 unlocked) (layer "F.SilkS") hide
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 5ec8cb83-3c70-40de-a8a9-803d1ae8ad16)
+  )
+  (fp_text value "1POS_INTERFACE" (at 0 1 unlocked) (layer "F.Fab") hide
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 2eba6100-b70a-436f-a1a6-51ca9b457615)
+  )
+  (fp_text user "${REFERENCE}" (at 0 2.5 unlocked) (layer "F.Fab") hide
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp feb801a6-cf18-41d5-ac78-577ebf14010d)
+  )
+  (pad "1" thru_hole rect (at 0 0) (size 2.286 2.286) (drill 1.2) (layers *.Mask "F.Cu" "In1.Cu" "B.Cu") (tstamp 3b56b5e5-c2e0-412b-8df4-3498659c2b40))
+)
