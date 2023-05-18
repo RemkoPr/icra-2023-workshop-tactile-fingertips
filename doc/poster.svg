@@ -30,10 +30,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.1767767"
-     inkscape:cx="1428.3557"
-     inkscape:cy="2356.0797"
+     inkscape:cx="987.12104"
+     inkscape:cy="2152.433"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer3"
+     inkscape:current-layer="layer4"
      showgrid="false"
      inkscape:window-width="1920"
      inkscape:window-height="1001"
@@ -41,7 +41,7 @@
      inkscape:window-y="-9"
      inkscape:window-maximized="1"
      showguides="false"
-     inkscape:snap-global="true"
+     inkscape:snap-global="false"
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
@@ -3485,8 +3485,8 @@ PBPKjXVMi4m1zhBE43RibVNVYv1DFoK1Twk1F0Q9IaGmUcu6uSUkFIOT/ik1G5rFOF1Y21SVWE+j
 CRHW+TrTscQiG9YNvSqxtinh7OKtt991/x9bNu7UNtnemQAAAABJRU5ErkJggg==
 "
        id="image82503"
-       x="-318.86417"
-       y="506.91705" />
+       x="-416.39667"
+       y="626.36444" />
     <image
        width="170.41261"
        height="152.55278"
@@ -25131,14 +25131,14 @@ eHmZwTRM3D/c4/b2Dn6L+OeHU1DYmQL4n/2o4fQDRWu0AAAAAElFTkSuQmCC
        transform="translate(-1361.8234,108.87282)"><tspan
          x="1383.2384"
          y="-508.9155"
-         id="tspan82903"><tspan
+         id="tspan89357"><tspan
            style="font-weight:bold;-inkscape-font-specification:'CMU Serif Bold';text-align:center;text-anchor:middle"
-           id="tspan82901">Augmenting Off-the-Shelf Grippers with </tspan></tspan><tspan
+           id="tspan89355">Augmenting Off-the-Shelf Grippers with </tspan></tspan><tspan
          x="1383.2384"
          y="-464.81826"
-         id="tspan82907"><tspan
+         id="tspan89361"><tspan
            style="font-weight:bold;-inkscape-font-specification:'CMU Serif Bold';text-align:center;text-anchor:middle"
-           id="tspan82905">Tactile Sensing</tspan></tspan></text>
+           id="tspan89359">Tactile Sensing</tspan></tspan></text>
     <g
        id="g21219"
        transform="matrix(0.87164895,0,0,0.87164895,18.97351,36.421082)">
@@ -26987,15 +26987,15 @@ eHmZwTRM3D/c4/b2Dn6L+OeHU1DYmQL4n/2o4fQDRWu0AAAAAElFTkSuQmCC
        transform="translate(-1477.9744,225.96552)"><tspan
          x="1383.2384"
          y="-508.9155"
-         id="tspan82911"><tspan
+         id="tspan89365"><tspan
            style="font-weight:bold;-inkscape-font-specification:'CMU Serif Bold';text-align:center;text-anchor:middle"
-           id="tspan82909">Remko Proesmans
+           id="tspan89363">Remko Proesmans
 </tspan></tspan><tspan
          x="1383.2384"
          y="-484.22103"
-         id="tspan82915"><tspan
+         id="tspan89369"><tspan
            style="font-size:14.1111px"
-           id="tspan82913">remko.proesmans@ugent.be</tspan></tspan></text>
+           id="tspan89367">remko.proesmans@ugent.be</tspan></tspan></text>
     <text
        id="text34145"
        y="-508.9155"
@@ -27005,9 +27005,9 @@ eHmZwTRM3D/c4/b2Dn6L+OeHU1DYmQL4n/2o4fQDRWu0AAAAAElFTkSuQmCC
        transform="translate(-1363.9401,198.83156)"><tspan
          x="1383.2384"
          y="-508.9155"
-         id="tspan82919"><tspan
+         id="tspan89373"><tspan
            style="font-weight:bold;-inkscape-font-specification:'CMU Serif Bold';text-align:center;text-anchor:middle"
-           id="tspan82917">IDLab-AIRO</tspan></tspan></text>
+           id="tspan89371">IDLab-AIRO</tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-size:14.1111px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;stroke-width:0.264583"
@@ -27377,15 +27377,15 @@ x+kOIz5nbuvzNjL8rMt6hl//72t93ERcsEuZvOF/AfizFwXPeG+jAAAAAElFTkSuQmCC
        transform="translate(-1258.8994,225.96552)"><tspan
          x="1383.2384"
          y="-508.9155"
-         id="tspan82923"><tspan
+         id="tspan89377"><tspan
            style="font-weight:bold;-inkscape-font-specification:'CMU Serif Bold';text-align:center;text-anchor:middle"
-           id="tspan82921">Francis wyffels
+           id="tspan89375">Francis wyffels
 </tspan></tspan><tspan
          x="1383.2384"
          y="-484.22103"
-         id="tspan82927"><tspan
+         id="tspan89381"><tspan
            style="font-size:14.1111px"
-           id="tspan82925">francis.wyffels.@ugent.be</tspan></tspan></text>
+           id="tspan89379">francis.wyffels.@ugent.be</tspan></tspan></text>
     <image
        width="124.22766"
        height="124.22766"
@@ -27548,44 +27548,44 @@ IAgBQBACgCAEAEEIAIIQAAQhAAhCAOjD/xVgAHeeA98j3F9WAAAAAElFTkSuQmCC
        transform="translate(-1106.5982,311.42082)"><tspan
          x="1383.2384"
          y="-508.9155"
-         id="tspan82931"><tspan
+         id="tspan89385"><tspan
            style="font-weight:bold;-inkscape-font-specification:'CMU Serif Bold'"
-           id="tspan82929">The development of tactile sensing and its fusion with computer vision is expected to enhance </tspan></tspan><tspan
+           id="tspan89383">Tactile sensing and its fusion with computer vision is expected to enhance robotic systems in </tspan></tspan><tspan
          x="1383.2384"
          y="-494.80438"
-         id="tspan82935"><tspan
+         id="tspan89389"><tspan
            style="font-weight:bold;-inkscape-font-specification:'CMU Serif Bold'"
-           id="tspan82933">robotic systems in handling complex tasks like deformable object manipulation.However, </tspan></tspan><tspan
+           id="tspan89387">handling complex tasks like deformable object manipulation. However, readily available </tspan></tspan><tspan
          x="1383.2384"
          y="-480.69327"
-         id="tspan82939"><tspan
+         id="tspan89393"><tspan
            style="font-weight:bold;-inkscape-font-specification:'CMU Serif Bold'"
-           id="tspan82937">readily available industrial grippers typically lack tactile feedback, which has led researchers to </tspan></tspan><tspan
+           id="tspan89391">industrial grippers typically lack tactile feedback, which has led researchers to develop and </tspan></tspan><tspan
          x="1383.2384"
          y="-466.58215"
-         id="tspan82943"><tspan
+         id="tspan89397"><tspan
            style="font-weight:bold;-inkscape-font-specification:'CMU Serif Bold'"
-           id="tspan82941">develop and integrate their own tactile sensors. This has resulted in a wide range of sensor </tspan></tspan><tspan
+           id="tspan89395">integrate their own tactile sensors. This has resulted in a wide range of sensor hardware, </tspan></tspan><tspan
          x="1383.2384"
          y="-452.47104"
-         id="tspan82947"><tspan
+         id="tspan89401"><tspan
            style="font-weight:bold;-inkscape-font-specification:'CMU Serif Bold'"
-           id="tspan82945">hardware, making it difficult to compare performance between different systems. We highlight </tspan></tspan><tspan
+           id="tspan89399">making it difficult to compare performance between different systems. We highlight the value </tspan></tspan><tspan
          x="1383.2384"
          y="-438.35992"
-         id="tspan82951"><tspan
+         id="tspan89405"><tspan
            style="font-weight:bold;-inkscape-font-specification:'CMU Serif Bold'"
-           id="tspan82949">the value of accessible open-source sensors and present a set of fingertips specifically designed </tspan></tspan><tspan
+           id="tspan89403">of accessible open-source sensors and present a set of fingertips specifically designed for fine </tspan></tspan><tspan
          x="1383.2384"
          y="-424.24881"
-         id="tspan82955"><tspan
+         id="tspan89409"><tspan
            style="font-weight:bold;-inkscape-font-specification:'CMU Serif Bold'"
-           id="tspan82953">for fine object manipulation, with readily interpretable data outputs. The fingertips are </tspan></tspan><tspan
+           id="tspan89407">object manipulation, with readily interpretable data outputs. The fingertips are validated </tspan></tspan><tspan
          x="1383.2384"
          y="-410.13769"
-         id="tspan82959"><tspan
+         id="tspan89413"><tspan
            style="font-weight:bold;-inkscape-font-specification:'CMU Serif Bold'"
-           id="tspan82957">validated through two difficult tasks: cloth edge tracing and cable tracing.</tspan></tspan></text>
+           id="tspan89411">through two difficult tasks: cloth edge tracing and cable tracing.</tspan></tspan></text>
     <text
        id="text80920"
        y="-508.9155"
@@ -27595,9 +27595,9 @@ IAgBQBACgCAEAEEIAIIQAAQhAAhCAOjD/xVgAHeeA98j3F9WAAAAAElFTkSuQmCC
        transform="translate(-814.73986,1192.9826)"><tspan
          x="1383.2384"
          y="-508.9155"
-         id="tspan82963"><tspan
+         id="tspan89417"><tspan
            style="font-weight:bold;-inkscape-font-specification:'CMU Serif Bold'"
-           id="tspan82961">Eurobin - fwo</tspan></tspan></text>
+           id="tspan89415">Eurobin - fwo</tspan></tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
