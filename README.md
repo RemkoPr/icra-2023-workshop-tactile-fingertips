@@ -1,6 +1,6 @@
 # ICRA2023 Transferability in Robotics Workshop 
 ## Augmenting Off-the-Shelf Grippers with Tactile Sensing
-Paper: https://doi.org/10.48550/arXiv.2306.05902
+[Paper](https://doi.org/10.48550/arXiv.2306.05902)
 
 Related work: https://doi.org/10.1109/LRA.2023.3284382
 
