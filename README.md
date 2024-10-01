@@ -23,7 +23,7 @@ Currently the fingertips are designed for the Robotiq-2F85 gripper. This gripper
 Both Arduino firmware and python readout software is provided. Data is communicated between the arduino and a remote workstation via Bluetooth Low Energy. Further documentation on the software is provided in the code/python folder.
 
 .wrap {
-    width: 400px;
-    height: 400px;
+    width: 100px;
+    height: 100px;
     overflow: hidden;
 }
