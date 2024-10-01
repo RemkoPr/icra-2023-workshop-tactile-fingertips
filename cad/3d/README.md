@@ -5,5 +5,5 @@ The rigid version (IRTouch_rigid) is a single part, best printed face-side up, s
 ### Note
 The files 2F85-OPENED-NO_FINGER.SLDASM and IO_20Coupling_20UR_20CB_20190807.SLDPRT are pulled straight from the [Robotiq Downloads page](https://robotiq.com/cobot-brands/universal-robots).
 
-<img align="left" width="300" src="https://github.com/RemkoPr/icra-2023-workshop-tactile-fingertips/blob/main/cad/3d/collapsed_view.png" style="margin-left: 100px;">
+<img align="left" width="300" src="https://github.com/RemkoPr/icra-2023-workshop-tactile-fingertips/blob/main/cad/3d/collapsed_view.png" style="margin-top: 500px;">
 <img align="left" width="350" src="https://github.com/RemkoPr/icra-2023-workshop-tactile-fingertips/blob/main/cad/3d/exploded_view.png">
