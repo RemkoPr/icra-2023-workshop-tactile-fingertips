@@ -9,7 +9,7 @@ The development of tactile sensing ad its fusion with computer vision is expecte
 ## Video material
 Video material of the proof-of-concept experiments is provided in the videos folder.
 
-<img align="left" width="350" src="https://github.com/RemkoPr/icra-2023-workshop-tactile-fingertips/blob/main/cad/3d/exploded_view.png">
+<img align="right" width="350" src="https://github.com/RemkoPr/icra-2023-workshop-tactile-fingertips/blob/main/cad/3d/exploded_view.png">
 
 ## Hardware integration
 
